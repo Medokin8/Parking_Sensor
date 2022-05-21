@@ -10,4 +10,5 @@ Repository for the project about simulating the parking sensor via an STM board 
 Main idea:
 When the sensors detect the object close to the construction the buzzer starts to play.
 If the acceleration is high and object is close there is a save to external memory of the board.
-From the save you can read data: time, date, acceleration in XY and 
+
+From the save you can read data: time, date, acceleration in XY, dps in XY and the distance to the obstacle
