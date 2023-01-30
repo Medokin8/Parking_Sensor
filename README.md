@@ -1,11 +1,16 @@
 # Parking_Sensor
 Repository for the project about simulating the parking sensor via an STM board and peripheries
 
-1. STM32L476 Discovery - microprocessor
-2. LSM303C - accelerometer
-3. L3gd20 - gyroscope
-4. HC-SR04 - ultrasonic sensors
-5. Buzzer
+Hardware:
+• STM32L476 Discovery - microcontroler with peryferials,HC-SR04 - ultrasonic sensor,
+• LSM303c - accelerometer,
+• Buzzer,
+• L3GD20 - gyroscope,
+• Module with analog-digital multiplexer 74HC4051.
+
+Software:
+• Stm32CubeIDE - IDE for programming microcontroeler,
+• Qt - a set of libraries and tools for visualization
 
 Main idea:
 When the sensors detect the object close to the construction the buzzer starts to play.
