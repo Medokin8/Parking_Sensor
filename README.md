@@ -1,12 +1,14 @@
 # Parking_Sensor
 Repository for the project about simulating the parking sensor via an STM board and peripheries
 
+
 Hardware:
 1. STM32L476 Discovery - microcontroler with peryferials,HC-SR04 - ultrasonic sensor,
 2. LSM303c - accelerometer,
 3. Buzzer,
 4. L3GD20 - gyroscope,
 5. Module with analog-digital multiplexer 74HC4051.
+
 
 Software:
 1. Stm32CubeIDE - IDE for programming microcontroeler,
