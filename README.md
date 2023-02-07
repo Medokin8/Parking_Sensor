@@ -11,7 +11,7 @@ Hardware:
 
 
 Software:
-1. Stm32CubeIDE - IDE for programming microcontroeler,
+1. Stm32CubeIDE - IDE for programming microcontroler,
 2. Qt - a set of libraries and tools for visualization
 
 Main idea:
